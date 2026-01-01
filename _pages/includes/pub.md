@@ -12,7 +12,7 @@
 
 <li>Analytical and computational aspects of the high-order fractional Laplacian, J.P. Borthagaray, Y. Wu, <b>S. Zhou</b>, and Y. Zhang, preprint (2023).</li>
 
-<li>Fourier pseudospectral methods for the spatial variable-order fractional wave equations, Y. Zhang, X. Zhao, <b>S. Zhou</b>, <a href="https://doi.org/10.1016/j.cpc.2025.109876">Comput. Phys. Commun.</a>, 318 (2026), pp. 109876.</li>
+<li>Fourier pseudospectral methods for the spatial variable-order fractional wave equations, Y. Zhang, X. Zhao, <b>S. Zhou</b>, <a href="https://doi.org/10.1016/j.cpc.2025.109876">Comput. Phys. Commun.</a>, 318 (2025), pp. 109876.</li>
 
 <li>Convolutional neural network-based reduced-order modeling for parametric nonlocal PDEs, Y. Wang, <b>S. Zhou</b>, and Y. Zhang, <a href="https://www.sciencedirect.com/science/article/pii/S0045782525003561">Comput. Methods Appl. Mech. Eng.</a>, 444 (2025), pp. 118084.</li>
 
