@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Shiping Zhou (周世平)"
 description              : "Postdoctoral Research Associate"
-repository               : "Shiping0608/shiping0608.github.io"
+repository               : "zhou-shiping/zhou-shiping.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shiping Zhou \n (周世平)"
+  name             : "Shiping Zhou<br>(周世平)"
   avatar           : "images/selfie.png"
   bio              : "Michigan State University"
   location         : "East Lansing, MI, USA"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shiping0608"
+  github           : "zhou-shiping"
   google_plus      :
   keybase          :
   instagram        :
