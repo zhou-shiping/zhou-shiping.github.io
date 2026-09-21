@@ -1,22 +1,89 @@
-# 💬 Talks
+<h1>💬 Talks and Presentations</h1>
 <ol reversed>
-<li>2026.04, Contributed talk: A deterministic particle method for the relativistic Landau equation, Midwest Numerical Analysis Day 2026, (MWNADay 2026), University of Notre Dame, Notre Dame, IN. </li>
-<li>2025.11, Poster: A deterministic particle method for the relativistic Landau equation, 28th International Conference on Numerical Simulation of Plasmas (ICNSP 2025), UCI, Irvine, CA.</li>
-<li>2025.10, Invited talk: Moment-enhanced shallow water equations for non-slip boundary conditions, 2025 SIAM New York-New Jersey-Pennsylvania Section Conference, Penn State, State College, PA.</li>
-<li>2024.12, Poster: Data-driven modeling of time-dependent nonlocal PDEs, CHaRMNET 2024 Annual Meeting, Virginia Tech, Blacksburg, VA.</li>
-<li>2023.10, Invited talk: A novel and simple spectral method for nonlocal PDEs with fractional Laplacian. The 8th Annual Meeting of SIAM Central States Sections, Lincoln, NE.</li>
-<!-- <li>2023.08, Poster: Machine learning of nonlocal kernels. Sustainable Research Pathways Midterm Lighting Talks, Sustainable Horizons Institute & Oak Ridge National Laboratory, Online.</li>
-<li>2023.07, Seminar talk: Machine learning of nonlocal kernels, Summer Student Presentations, Oak Ridge National Laboratory, Oak Ridge, TN.</li>
-<li>2023.07, Poster: Machine learning of nonlocal kernels. Sustainable Research Pathways Midterm Lighting Talks, Sustainable Horizons Institute & Oak Ridge National Laboratory, Online.</li> -->
-<li>2023.04, Seminar talk: A novel and simple spectral method for nonlocal PDEs with fractional Lpalcian. Graduate Seminar at Missouri University of Science and Technology, Rolla, MO.</li>
-<li>2023.03, Poster: Numerical studies on the high-order fractional Laplacian. Pi Day Poster Session, Missouri University of Science and Technology, Rolla, MO.</li>
-<li>2023.02, Seminar talk: Accurate and efficient spectral method for fractional wave equations. Numerical Analysis Seminar at Univrsity of Pittsburgh, Pittsburgh, PA.</li>
-<li>2022.10, Invited talk: Accurate and efficient spectral method for fractional wave equations. The 7th Annual Meeting of SIAM Central States Section, Stillwater, OK.</li>
-<li>2022.10, Poster: Numerical studies on the high-order fractional Laplacian. Theoretical and Applied Aspects for nonlocal Models, Workshop of BIRS, Online.</li>
-<li>2022.04, Seminar talk: Numerical Methods for acoustic wave equations. Graduate Seminar at Missouri University of Science and Technology, Rolla, MO.</li>
-<li>2022.03, Poster: Numerical studies on the high-order fractional Laplacian. KU Numerical Analysis Day 2022, Lawrence, KS.</li>
-<li>2022.03, Seminar talk: Numerical studies on the high-order fractional Laplacian. Continuum Mechanics Seminar (CMS) at UNL, Online.</li>
-<li>2021.11, Invited talk: Numerical studies on the high-order fractional Laplacian. 4th Annual Meeting of the SIAM Texas-Louisiana Section, South Padre Island, TX. </li>
-<li>2021.10, Contributed talk: Numerical studies on the high-order fractional Laplacian. Midwest Numerical Analysis Day 2021, Rolla, MO.</li>
+  <li>
+    Feb. 2027 (upcoming). <em>Hyperbolic Machine Learning Moment Closures for the Vlasov–Poisson–BGK Equations.</em>
+    Contributed talk, SIAM Conference on Computational Science and Engineering
+    (CSE27), Pittsburgh, PA.
+  </li>
+  <li>
+    Oct. 2026 (upcoming). <em>Hyperbolic Machine Learning Moment Closures for the Vlasov–Poisson–BGK Equations.</em>
+    Invited minisymposium talk, 2026 SIAM New York–New Jersey–Pennsylvania
+    Section Conference (NNP26), Rutgers University, New Brunswick, NJ.
+  </li>
+  <li>
+    Jul. 2026. <em>A Deterministic Particle Method for the Relativistic Landau Equation.</em>
+    Contributed talk, 2026 SIAM Annual Meeting (AN26), Cleveland, OH.
+  </li>
+  <li>
+    Apr. 2026. <em>A Deterministic Particle Method for the Relativistic Landau Equation.</em>
+    Contributed talk, Midwest Numerical Analysis Day 2026,
+    University of Notre Dame, Notre Dame, IN.
+  </li>
+  <li>
+    Nov. 2025. <em>A Deterministic Particle Method for the Relativistic Landau Equation.</em>
+    Poster, 28th International Conference on Numerical Simulation of Plasmas,
+    University of California, Irvine, Irvine, CA.
+  </li>
+  <li>
+    Oct. 2025. <em>Moment-Enhanced Shallow Water Equations for No-Slip Boundary Conditions.</em>
+    Invited minisymposium talk, 2025 SIAM New York–New Jersey–Pennsylvania
+    Section Conference, Penn State University, State College, PA.
+  </li>
+  <li>
+    Dec. 2024. <em>Data-Driven Modeling of Time-Dependent Nonlocal PDEs.</em>
+    Poster, CHaRMNET 2024 Annual Meeting, Virginia Tech, Blacksburg, VA.
+  </li>
+  <li>
+    Oct. 2023. <em>A Novel and Simple Spectral Method for Nonlocal PDEs with the Fractional Laplacian.</em>
+    Invited minisymposium talk, 8th Annual Meeting of the SIAM Central States
+    Section, Lincoln, NE.
+  </li>
+  <li>
+    Apr. 2023. <em>A Novel and Simple Spectral Method for Nonlocal PDEs with the Fractional Laplacian.</em>
+    Seminar talk, Graduate Seminar, Missouri University of Science and Technology,
+    Rolla, MO.
+  </li>
+  <li>
+    Mar. 2023. <em>Numerical Studies on the High-Order Fractional Laplacian.</em>
+    Poster, Pi Day Poster Session, Missouri University of Science and Technology,
+    Rolla, MO.
+  </li>
+  <li>
+    Feb. 2023. <em>Accurate and Efficient Spectral Methods for Fractional Wave Equations.</em>
+    Seminar talk, Numerical Analysis Seminar, University of Pittsburgh,
+    Pittsburgh, PA.
+  </li>
+  <li>
+    Oct. 2022. <em>Accurate and Efficient Spectral Methods for Fractional Wave Equations.</em>
+    Invited minisymposium talk, 7th Annual Meeting of the SIAM Central States
+    Section, Stillwater, OK.
+  </li>
+  <li>
+    Jul. 2022. <em>Numerical Studies on the High-Order Fractional Laplacian.</em>
+    Poster, Theoretical and Applied Aspects for Nonlocal Models,
+    BIRS Workshop, online.
+  </li>
+  <li>
+    Apr. 2022. <em>Numerical Methods for Acoustic Wave Equations.</em>
+    Seminar talk, Graduate Seminar, Missouri University of Science and Technology,
+    Rolla, MO.
+  </li>
+  <li>
+    Mar. 2022. <em>Numerical Studies on the High-Order Fractional Laplacian.</em>
+    Poster, KU Numerical Analysis Day 2022, Lawrence, KS.
+  </li>
+  <li>
+    Mar. 2022. <em>Numerical Studies on the High-Order Fractional Laplacian.</em>
+    Seminar talk, Continuum Mechanics Seminar, University of Nebraska–Lincoln,
+    online.
+  </li>
+  <li>
+    Nov. 2021. <em>Numerical Studies on the High-Order Fractional Laplacian.</em>
+    Invited minisymposium talk, 4th Annual Meeting of the SIAM Texas–Louisiana
+    Section, South Padre Island, TX.
+  </li>
+  <li>
+    Oct. 2021. <em>Numerical Studies on the High-Order Fractional Laplacian.</em>
+    Contributed talk, Midwest Numerical Analysis Day 2021, Rolla, MO.
+  </li>
 </ol>
-

@@ -1,17 +1,12 @@
-Welcome! I am **Shiping Zhou**, currently a postdoctoral research associate in the Department of Computational Mathematics, Science and Engineering ([CMSE](https://cmse.msu.edu)) at Michigan State University ([MSU](https://msu.edu/)), working under the supervision of [Dr. Andrew Christlieb](https://directory.natsci.msu.edu/Directory/Profiles/Person/101537).
+Welcome! I am **Shiping Zhou**, a postdoctoral research associate in the Department of Computational Mathematics, Science and Engineering ([CMSE](https://cmse.msu.edu)) at Michigan State University ([MSU](https://msu.edu/)), working with [Prof. Andrew J. Christlieb](https://directory.natsci.msu.edu/Directory/Profiles/Person/101537).
 
+I received my Ph.D. in Mathematics from [Missouri University of Science and Technology](https://www.mst.edu/) in May 2024, advised by [Prof. Yanzhi Zhang](https://web.mst.edu/~zhangyanz/).
 
+My research develops numerical methods and reduced models for kinetic equations, free-surface flows, and nonlocal partial differential equations. I combine mathematical analysis and computation to preserve the structures that make these models reliable, including conservation laws, entropy dissipation, hyperbolicity, and equilibrium balance.
 
-Before joining MSU, I received my Ph.D. in the [Department of Mathematics and Statistics](https://math.mst.edu/) at [Missouri University of Science and Technology](https://www.mst.edu/) in May 2024, under the guidance of [Dr. Yanzhi Zhang](https://web.mst.edu/~zhangyanz/).
+My research interests include:
 
-My research primarily focuses on the following areas:
-
-1. **Nonlocal modeling and numerical methods designing**  
-   This includes the development of nonlocal models motivated by physics, such as collision operators in palsma physics (e.g., the Fokker-Planck-Landau and Boltzmann equations), as well as nonlocal models for anomalous diffusion, fractional Laplacians, truncated fractional Laplacians, and their spatially dependent variants, as well as the design and analysis of numerical methods for these models.
-
-2. **Shallow water moment models**  
-   As simplified models of the Navier--Stoeks equations, these aim to capture as many physical properties as possible while keep the computational cost manageable. Examples include physical quantities such as vertical velocity, dry-wet bed dynamics, Coriolis forces, and thermal effects in fluids.
-
-3. **Machine learning for nonlocal models**  
-   Combining model development with numerical methods, I am interested in applying neural network techniques to learn and solve nonlocal models, including learning physical quantities (or entire models) directly from experimentally observed data.
-
+- **Kinetic equations and structure-preserving numerical methods:** conservative particle methods for relativistic Landau collisions and numerical modeling of plasma dynamics.
+- **Shallow-water moment models:** hyperbolic reduced models that retain vertical shear and wall effects, with well-balanced finite-volume schemes.
+- **Scientific machine learning:** hyperbolic moment closures for kinetic equations and neural-network reduced-order models for time-dependent PDEs.
+- **Nonlocal and fractional PDEs:** modeling, analysis, and fast spectral and finite-difference solvers for anomalous diffusion and heterogeneous media.

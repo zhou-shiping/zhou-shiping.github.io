@@ -1,6 +1,7 @@
 
-# 📖 Educations
-- *2019.08 - 2024.05*, Ph.D. in Mathematics (Computational and Applied Emphasis), Missouri University of Science and Technology, Rolla, MO
+# 📖 Education
+
+- *2019.08 - 2024.05*, Ph.D. in Mathematics (Computational and Applied Mathematics Emphasis), Missouri University of Science and Technology, Rolla, MO
 
    Advisor: [Prof. Yanzhi Zhang](https://web.mst.edu/~zhangyanz/)
 

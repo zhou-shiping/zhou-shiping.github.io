@@ -11,6 +11,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
 
+<span class='anchor' id='cv'></span>
+{% include_relative includes/cv.md %}
+
 <span class='anchor' id='educations'></span>
 
 {% include_relative includes/education.md %}
@@ -18,10 +21,6 @@ redirect_from:
 <!-- <span class='anchor' id='academia'></span>
 
 {% include_relative includes/academia.md %} -->
-
-<span class='anchor' id='awards'></span>
-
-{% include_relative includes/honers.md %}
 
 <span class='anchor' id='publications'></span>
 
@@ -35,5 +34,6 @@ redirect_from:
 
 {% include_relative includes/teaching.md %}
 
-<span class='anchor' id='cv'></span>
-{% include_relative includes/cv.md %}
+<span class='anchor' id='awards'></span>
+
+{% include_relative includes/honers.md %}
