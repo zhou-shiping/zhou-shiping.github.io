@@ -1,0 +1,27 @@
+type = "card"
+title = "Teaching"
+description = "Teaching experience at Michigan State University and Missouri University of Science and Technology."
+
+[[items]]
+title = "MTH 235: Differential Equations"
+subtitle = "Recitation Instructor"
+date = "Fall 2026"
+content = "Michigan State University"
+
+[[items]]
+title = "MTH 133: Calculus II"
+subtitle = "Recitation Instructor"
+date = "Fall 2025"
+content = "Michigan State University"
+
+[[items]]
+title = "MATH 3304: Elementary Differential Equations"
+subtitle = "Instructor"
+date = "Spring 2023"
+content = "Missouri University of Science and Technology (Missouri S&T)"
+
+[[items]]
+title = "MATH 1214: Mathematics Calculus for Engineers I"
+subtitle = "Lab Instructor"
+date = "Fall 2020"
+content = "Missouri University of Science and Technology (Missouri S&T)"

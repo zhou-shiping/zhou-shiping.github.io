@@ -1,0 +1,42 @@
+[site]
+title = "周世平 | Shiping Zhou"
+description = "密歇根州立大学计算数学、科学与工程系博士后。"
+last_updated = "2026年10月16日"
+
+[author]
+name = "周世平"
+title = "博士后"
+institution = "密歇根州立大学"
+
+[social]
+location = "美国东兰辛"
+
+[[navigation]]
+title = "关于我"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "研究"
+type = "page"
+target = "research"
+href = "/research"
+
+[[navigation]]
+title = "教学"
+type = "page"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "论文"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "简历"
+type = "page"
+target = "cv"
+href = "/cv"

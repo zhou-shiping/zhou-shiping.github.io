@@ -1,0 +1,4 @@
+type = "publication"
+title = "论文"
+description = "更多论文信息请参阅我的 [Google Scholar 主页](https://scholar.google.com/citations?user=I9HXprsAAAAJ)。"
+source = "publications.bib"

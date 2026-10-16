@@ -1,0 +1,23 @@
+type = "about"
+title = "关于我"
+
+[profile]
+research_interests = [
+  "动理学方程",
+  "浅水矩模型",
+  "科学机器学习",
+  "非局部与分数阶偏微分方程",
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "关于我"
+
+[[sections]]
+id = "news"
+type = "list"
+title = "动态"
+source = "news.toml"
+limit = 5

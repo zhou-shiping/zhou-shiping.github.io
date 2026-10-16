@@ -1,0 +1,157 @@
+# News categories: publication, talk, student, group, funding, award, general.
+# Dates: YYYY-MM-DD, YYYY-MM, or YYYY; retained for sorting and not displayed publicly.
+# Set upcoming = true to place an event first, with the nearest upcoming event first.
+# Other entries display newest first; clear upcoming and update wording after the event.
+# Markdown links: [slides](https://example.org/slides.pdf).
+
+[[news]]
+date = "2027-02"
+category = "talk"
+upcoming = true
+content = "将在SIAM 计算科学与工程会议（CSE27），宾夕法尼亚州匹兹堡报告 **Hyperbolic Machine Learning Moment Closures for the Vlasov–Poisson–BGK Equations**。"
+
+[[news]]
+date = "2026-10-16"
+category = "publication"
+content = "我们的论文 [**Moment-enhanced shallow water equations with an effective wall closure for no-slip bottoms**](https://arxiv.org/abs/2506.14785) 已被 **Journal of Computational Physics 接收**。"
+
+[[news]]
+date = "2026-10"
+category = "talk"
+upcoming = true
+content = "将在2026 年 SIAM 纽约–新泽西–宾夕法尼亚分会会议（NNP26），罗格斯大学，新泽西州新不伦瑞克报告 **Hyperbolic Machine Learning Moment Closures for the Vlasov–Poisson–BGK Equations**。"
+
+[[news]]
+date = "2026-07"
+category = "talk"
+content = "在俄亥俄州克利夫兰举行的 SIAM 年会上报告了**相对论 Landau 方程的确定性粒子方法**。"
+
+[[news]]
+date = "2026-03"
+category = "talk"
+content = "在圣母大学举行的 Midwest Numerical Analysis Day 上报告了**相对论 Landau 方程的确定性粒子方法**。"
+
+[[news]]
+date = "2025-11"
+category = "talk"
+content = "在加州大学欧文分校举行的第 28 届等离子体数值模拟国际会议上报告了相对论 Landau 方程相关研究。"
+
+[[news]]
+date = "2025-10"
+category = "talk"
+content = "在宾夕法尼亚州立大学举行的 SIAM 纽约–新泽西–宾夕法尼亚分会会议上报告了无滑移边界条件下的浅水矩模型研究。"
+
+[[news]]
+date = "2024-12"
+category = "talk"
+content = "在弗吉尼亚理工大学举行的 CHaRMNET 年会上报告了**含时非局部偏微分方程的数据驱动建模**。"
+
+[[news]]
+date = "2024"
+category = "award"
+content = "获得密苏里科技大学 **Gaoxiong Gan Scholarship** 奖学金。"
+
+[[news]]
+date = "2023-10"
+category = "talk"
+content = "在内布拉斯加州林肯举行的第八届 SIAM 中部各州分会年会上报告了分数阶 Laplacian 非局部偏微分方程的谱方法研究。"
+
+[[news]]
+date = "2023-04"
+category = "talk"
+content = "在密苏里科技大学研究生研讨会，密苏里州罗拉报告了 **A novel and simple spectral method for nonlocal PDEs with fractional Laplacian**。"
+
+[[news]]
+date = "2023-03"
+category = "talk"
+content = "在密苏里科技大学 Pi Day 活动，密苏里州罗拉报告了 **Numerical studies on the high-order fractional Laplacian**。"
+
+[[news]]
+date = "2023-02"
+category = "talk"
+content = "在匹兹堡大学数值分析研讨会，宾夕法尼亚州匹兹堡报告了 **Accurate and efficient spectral method for fractional wave equations**。"
+
+[[news]]
+date = "2023"
+category = "award"
+content = "获得密苏里科技大学 **Gaoxiong Gan Scholarship**。"
+
+[[news]]
+date = "2023"
+category = "award"
+content = "获得密苏里科技大学 **Paul W. Eloe Graduate Research Award**。"
+
+[[news]]
+date = "2023"
+category = "award"
+content = "获得 **8th Annual Meeting of SIAM Central State Section Travel Award**。"
+
+[[news]]
+date = "2023"
+category = "award"
+content = "获得密苏里科技大学 **First place at the Pi Day Celebration Poster Session**。"
+
+[[news]]
+date = "2023"
+category = "award"
+content = "获得密苏里科技大学 **Graduate Education Travel Fund**。"
+
+[[news]]
+date = "2022-10"
+category = "talk"
+content = "在第七届 SIAM 中部各州分会年会，俄克拉荷马州斯蒂尔沃特报告了 **Accurate and efficient spectral method for fractional wave equations**。"
+
+[[news]]
+date = "2022-07"
+category = "talk"
+content = "在班夫国际研究站（BIRS）Theoretical and Applied Aspects for nonlocal Models 线上研讨会报告了 **Numerical studies on the high-order fractional Laplacian**。"
+
+[[news]]
+date = "2022-04"
+category = "talk"
+content = "在密苏里科技大学研究生研讨会，密苏里州罗拉报告了 **Numerical methods for acoustic wave equations**。"
+
+[[news]]
+date = "2022-03"
+category = "talk"
+content = "在堪萨斯大学 2022 年数值分析日，堪萨斯州劳伦斯报告了 **Numerical studies on the high-order fractional Laplacian**。"
+
+[[news]]
+date = "2022-03"
+category = "talk"
+content = "在内布拉斯加大学林肯分校连续介质力学线上研讨会报告了 **Numerical studies on the high-order fractional Laplacian**。"
+
+[[news]]
+date = "2022"
+category = "award"
+content = "获得密苏里科技大学 **Gaoxiong Gan Scholarship**。"
+
+[[news]]
+date = "2022"
+category = "award"
+content = "获得密苏里科技大学 **Paul W. Eloe Graduate Research Award**。"
+
+[[news]]
+date = "2022"
+category = "award"
+content = "获得 **Nonlocal School on Fractional Equations (NSFE) Travel Award**。"
+
+[[news]]
+date = "2022"
+category = "award"
+content = "获得密苏里科技大学 **Mathematics and Statistics Alumni Endowed Scholarship**。"
+
+[[news]]
+date = "2022"
+category = "award"
+content = "获得 **7th Annual Meeting of SIAM Central State Section Travel Award**。"
+
+[[news]]
+date = "2021-11"
+category = "talk"
+content = "在第四届 SIAM 得克萨斯–路易斯安那分会年会，得克萨斯州南帕德里岛报告了 **Numerical studies on the high-order fractional Laplacian**。"
+
+[[news]]
+date = "2021-10"
+category = "talk"
+content = "在2021 年 Midwest Numerical Analysis Day，密苏里州罗拉报告了 **Numerical studies on the high-order fractional Laplacian**。"

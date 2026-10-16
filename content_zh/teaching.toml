@@ -1,0 +1,27 @@
+type = "card"
+title = "教学"
+description = "在密歇根州立大学和密苏里科技大学的教学经历。"
+
+[[items]]
+title = "MTH 235：微分方程"
+subtitle = "习题课教师"
+date = "2026 年秋季"
+content = "密歇根州立大学"
+
+[[items]]
+title = "MTH 133：微积分 II"
+subtitle = "习题课教师"
+date = "2025 年秋季"
+content = "密歇根州立大学"
+
+[[items]]
+title = "MATH 3304：初等微分方程"
+subtitle = "授课教师"
+date = "2023 年春季"
+content = "密苏里科技大学（Missouri S&T）"
+
+[[items]]
+title = "MATH 1214：工程微积分 I"
+subtitle = "实验课教师"
+date = "2020 年秋季"
+content = "密苏里科技大学（Missouri S&T）"

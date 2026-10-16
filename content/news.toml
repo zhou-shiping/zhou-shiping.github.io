@@ -1,0 +1,157 @@
+# News categories: publication, talk, student, group, funding, award, general.
+# Dates: YYYY-MM-DD, YYYY-MM, or YYYY; retained for sorting and not displayed publicly.
+# Set upcoming = true to place an event first, with the nearest upcoming event first.
+# Other entries display newest first; clear upcoming and update wording after the event.
+# Markdown links: [slides](https://example.org/slides.pdf).
+
+[[news]]
+date = "2027-02"
+category = "talk"
+upcoming = true
+content = "Hyperbolic Machine Learning Moment Closures for the Vlasov–Poisson–BGK Equations at the SIAM Conference on Computational Science and Engineering (CSE27), Pittsburgh, Pennsylvania."
+
+[[news]]
+date = "2026-10-16"
+category = "publication"
+content = "Our paper, [**Moment-enhanced shallow water equations with an effective wall closure for no-slip bottoms**](https://arxiv.org/abs/2506.14785), has been **accepted for publication in the Journal of Computational Physics**."
+
+[[news]]
+date = "2026-10"
+category = "talk"
+upcoming = true
+content = "Hyperbolic Machine Learning Moment Closures for the Vlasov–Poisson–BGK Equations at the 2026 SIAM New York–New Jersey–Pennsylvania Section Conference (NNP26), Rutgers University, New Brunswick, New Jersey."
+
+[[news]]
+date = "2026-07"
+category = "talk"
+content = "Presented **A Deterministic Particle Method for the Relativistic Landau Equation** at the SIAM Annual Meeting in Cleveland, Ohio."
+
+[[news]]
+date = "2026-03"
+category = "talk"
+content = "Presented **A deterministic particle method for the relativistic Landau equation** at Midwest Numerical Analysis Day, University of Notre Dame."
+
+[[news]]
+date = "2025-11"
+category = "talk"
+content = "Presented work on the relativistic Landau equation at the 28th International Conference on Numerical Simulation of Plasmas, UC Irvine."
+
+[[news]]
+date = "2025-10"
+category = "talk"
+content = "Presented **Moment-enhanced shallow water equations for non-slip boundary conditions** at the SIAM New York–New Jersey–Pennsylvania Section Conference, Penn State."
+
+[[news]]
+date = "2024-12"
+category = "talk"
+content = "Presented **Data-driven modeling of time-dependent nonlocal PDEs** at the CHaRMNET Annual Meeting, Virginia Tech."
+
+[[news]]
+date = "2024"
+category = "award"
+content = "Received the **Gaoxiong Gan Scholarship** at Missouri University of Science and Technology."
+
+[[news]]
+date = "2023-10"
+category = "talk"
+content = "Presented **A novel and simple spectral method for nonlocal PDEs with fractional Laplacian** at the 8th Annual Meeting of the SIAM Central States Section in Lincoln, Nebraska."
+
+[[news]]
+date = "2023-04"
+category = "talk"
+content = "Presented **A novel and simple spectral method for nonlocal PDEs with fractional Laplacian** at the Graduate Seminar at Missouri University of Science and Technology, Rolla, Missouri."
+
+[[news]]
+date = "2023-03"
+category = "talk"
+content = "Presented **Numerical studies on the high-order fractional Laplacian** at the Pi Day at Missouri University of Science and Technology, Rolla, Missouri."
+
+[[news]]
+date = "2023-02"
+category = "talk"
+content = "Presented **Accurate and efficient spectral method for fractional wave equations** at the Numerical Analysis Seminar at the University of Pittsburgh, Pittsburgh, Pennsylvania."
+
+[[news]]
+date = "2023"
+category = "award"
+content = "Received **Gaoxiong Gan Scholarship** at Missouri University of Science and Technology."
+
+[[news]]
+date = "2023"
+category = "award"
+content = "Received **Paul W. Eloe Graduate Research Award** at Missouri University of Science and Technology."
+
+[[news]]
+date = "2023"
+category = "award"
+content = "Received **8th Annual Meeting of SIAM Central State Section Travel Award**."
+
+[[news]]
+date = "2023"
+category = "award"
+content = "Received **First place at the Pi Day Celebration Poster Session** at Missouri University of Science and Technology."
+
+[[news]]
+date = "2023"
+category = "award"
+content = "Received **Graduate Education Travel Fund** at Missouri University of Science and Technology."
+
+[[news]]
+date = "2022-10"
+category = "talk"
+content = "Presented **Accurate and efficient spectral method for fractional wave equations** at the 7th Annual Meeting of the SIAM Central States Section, Stillwater, Oklahoma."
+
+[[news]]
+date = "2022-07"
+category = "talk"
+content = "Presented **Numerical studies on the high-order fractional Laplacian** at the Theoretical and Applied Aspects for nonlocal Models, a workshop of the Banff International Research Station (BIRS), online."
+
+[[news]]
+date = "2022-04"
+category = "talk"
+content = "Presented **Numerical methods for acoustic wave equations** at the Graduate Seminar at Missouri University of Science and Technology, Rolla, Missouri."
+
+[[news]]
+date = "2022-03"
+category = "talk"
+content = "Presented **Numerical studies on the high-order fractional Laplacian** at the University of Kansas Numerical Analysis Day 2022, Lawrence, Kansas."
+
+[[news]]
+date = "2022-03"
+category = "talk"
+content = "Presented **Numerical studies on the high-order fractional Laplacian** at the Continuum Mechanics Seminar at the University of Nebraska–Lincoln, online."
+
+[[news]]
+date = "2022"
+category = "award"
+content = "Received **Gaoxiong Gan Scholarship** at Missouri University of Science and Technology."
+
+[[news]]
+date = "2022"
+category = "award"
+content = "Received **Paul W. Eloe Graduate Research Award** at Missouri University of Science and Technology."
+
+[[news]]
+date = "2022"
+category = "award"
+content = "Received **Nonlocal School on Fractional Equations (NSFE) Travel Award**."
+
+[[news]]
+date = "2022"
+category = "award"
+content = "Received **Mathematics and Statistics Alumni Endowed Scholarship** at Missouri University of Science and Technology."
+
+[[news]]
+date = "2022"
+category = "award"
+content = "Received **7th Annual Meeting of SIAM Central State Section Travel Award**."
+
+[[news]]
+date = "2021-11"
+category = "talk"
+content = "Presented **Numerical studies on the high-order fractional Laplacian** at the 4th Annual Meeting of the SIAM Texas–Louisiana Section, South Padre Island, Texas."
+
+[[news]]
+date = "2021-10"
+category = "talk"
+content = "Presented **Numerical studies on the high-order fractional Laplacian** at the Midwest Numerical Analysis Day 2021, Rolla, Missouri."
